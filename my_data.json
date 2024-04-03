@@ -1,0 +1,47 @@
+[
+    {
+        "nav_link":"#",
+        "imagePath":"images/medium/Image1.png",
+        "heading":"Why RPA Bots & Chatbots/Live Chat are natural",
+        "link":"https://chatbotslife.com/why-rpa-bots-chatbots-live-chat-are-natural-partners-in-automation-4b742787786e",
+        "postdate":"Jan 7, 2021",
+        "author":"Symprio",
+        "subject":"Chatbots can be effective and cost effective mechanism to communicate with potential or actual customers in real time."
+    },
+    {
+        "nav_link":"#",
+        "imagePath":"images/medium/top10.png",
+        "heading":"Top 10 strategies to create a successful Chatbot",
+        "link":"https://chatbotslife.com/top-10-strategies-to-create-a-successful-chatbot-7c7d3ca0d871",
+        "postdate":"May 17, 2022",
+        "author":"Symprio",
+        "subject":"Originally posted on LinkedIn. 2020 was a very strange year (Covid19, US election and more), but one thing which really"
+    },
+    {
+        "nav_link":"doc.php",
+        "imagePath":"images/medium/doc.jpg",
+        "heading":"Document Understanding<br></br>",
+        "link":"doc.php",
+        "postdate":"Mar 15, 2024",
+        "author":"Symprio",
+        "subject":"Leveraging RPA for Efficient Document Understanding: A Case Study on Forms 940 and 1040 using UiPath."
+    },
+    {
+        "nav_link":"#",
+        "imagePath":"images/medium/robofail.png",
+        "heading":"Why so many RPA projects fail 10 RPA / Automation",
+        "link":"https://medium.com/intelligent-automation-journal/why-so-many-rpa-projects-fail-8db4dff5633b",
+        "postdate":"Dec 10, 2020",
+        "author":"Symprio",
+        "subject":"Intelligent Automation or RPA projects have a high failure rate and unfortunately some organizations give up as the first few"
+    },
+    {
+        "nav_link":"#",
+        "imagePath":"images/medium/news.png",
+        "heading":"Malaysia GST goes to zero swiftly — how do you",
+        "link":"https://symprioideas.medium.com/malaysia-gst-goes-to-zero-swiftly-how-do-you-get-ready-384a84acdb8b",
+        "postdate":"Aug 16, 2019",
+        "author":"Symprio",
+        "subject":"With the change in government in Malaysia, the new Prime Minister swiftly delivers on his promise to remove GST. Last night"
+    }
+]
