@@ -62,7 +62,7 @@
                            <div class="block-inner" style="margin-top: 10px;">
                               <span class="icon"><img src="images/icons/contact-1.png" alt="" /></span>
                               <strong>USA (HQ)</strong>
-                              Symprio Inc.<br>Unit 08-101, 75 E. Santa Clara St., Suite 900 San Jose, CA 95113
+                              Symprio Inc.<br>333 West San CarlosSt Suite 600 San Jose,  CA 95110
                            </div>
                            <div class="block-inner" style="margin-top: 10px;">
                               <span class="icon"><img src="images/icons/contact-1.png" alt="" /></span>
