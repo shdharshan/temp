@@ -55,7 +55,7 @@
 								<div class="footer-widget contact-widget">
 									<h4>USA (HQ)</h4>
 									<ul class="contact-list">
-										<li><span class="icon fa fa-map-pin"></span> Symprio Inc.<br>Unit 08-101, 75 E. Santa Clara St., Suite 900 San Jose, CA 95113 <br> &nbsp; </li>
+										<li><span class="icon fa fa-map-pin"></span> Symprio Inc.<br>333 West San CarlosSt Suite 600 San Jose,  CA 95110 <br> &nbsp; </li>
 										<li><span class="icon fa fa-phone"></span> +1 (925) 663 9714 </li>
 									</ul>
 								</div>
